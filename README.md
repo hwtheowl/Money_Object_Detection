@@ -74,6 +74,7 @@ Yolov5를 이용하여 저시력자를 위한 원화 화폐 분류를 위한 시
 
 ## 모델링
 **사용 모델: Yolov5l**
+
 **학습 횟수: 50epochs**
 ![image](https://github.com/hwtheowl/Money_Object_Detection/assets/132368135/0a6163bd-b1f9-4f59-bd4c-54b828138637)
 
