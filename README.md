@@ -82,7 +82,7 @@ Yolov5를 이용하여 저시력자를 위한 원화 화폐 분류를 위한 시
 
 ![results](https://github.com/hwtheowl/Money_Object_Detection/assets/132368135/9a4b5515-e900-463f-8f0a-f8bc39e5b611)
 
-학습및 검증 데이터에 대해서 상당히 높은 정확도를 보임
+학습 및 검증 데이터에 대해서 상당히 높은 정확도를 보임
 
 학습 횟수가 오히려 너무 많아 과적합 문제가 발생 할 것으로 판단
 <br>
@@ -94,7 +94,7 @@ Yolov5를 이용하여 저시력자를 위한 원화 화폐 분류를 위한 시
 
 [최종 모델 시연 영상](https://drive.google.com/file/d/1daRO39Z7LAxNOTodlnFBNizc9S_IdmaH/view?usp=drive_link)
 
-똑바로 놓인 하폐에 대해서는 잘 탐지하고 정확도도 준수한 편이지만 손으로 들고 있는 화폐에 대한 탐지 및 정확도가 떨어지는 것으로 판단
+똑바로 놓인 화폐에 대해서는 잘 탐지하고 정확도도 준수한 편이지만 손으로 들고 있는 화폐에 대한 탐지 및 정확도가 떨어지는 것으로 판단
 <br>
 <br>
 <br>
